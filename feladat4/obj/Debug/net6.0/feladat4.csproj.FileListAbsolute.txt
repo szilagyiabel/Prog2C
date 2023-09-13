@@ -1,0 +1,15 @@
+C:\Users\szila\Desktop\Szilagyi_Tibor_Abel_F0N478\feladat4\bin\Debug\net6.0\feladat4.exe
+C:\Users\szila\Desktop\Szilagyi_Tibor_Abel_F0N478\feladat4\bin\Debug\net6.0\feladat4.deps.json
+C:\Users\szila\Desktop\Szilagyi_Tibor_Abel_F0N478\feladat4\bin\Debug\net6.0\feladat4.runtimeconfig.json
+C:\Users\szila\Desktop\Szilagyi_Tibor_Abel_F0N478\feladat4\bin\Debug\net6.0\feladat4.dll
+C:\Users\szila\Desktop\Szilagyi_Tibor_Abel_F0N478\feladat4\bin\Debug\net6.0\feladat4.pdb
+C:\Users\szila\Desktop\Szilagyi_Tibor_Abel_F0N478\feladat4\obj\Debug\net6.0\feladat4.csproj.AssemblyReference.cache
+C:\Users\szila\Desktop\Szilagyi_Tibor_Abel_F0N478\feladat4\obj\Debug\net6.0\feladat4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szila\Desktop\Szilagyi_Tibor_Abel_F0N478\feladat4\obj\Debug\net6.0\feladat4.AssemblyInfoInputs.cache
+C:\Users\szila\Desktop\Szilagyi_Tibor_Abel_F0N478\feladat4\obj\Debug\net6.0\feladat4.AssemblyInfo.cs
+C:\Users\szila\Desktop\Szilagyi_Tibor_Abel_F0N478\feladat4\obj\Debug\net6.0\feladat4.csproj.CoreCompileInputs.cache
+C:\Users\szila\Desktop\Szilagyi_Tibor_Abel_F0N478\feladat4\obj\Debug\net6.0\feladat4.dll
+C:\Users\szila\Desktop\Szilagyi_Tibor_Abel_F0N478\feladat4\obj\Debug\net6.0\refint\feladat4.dll
+C:\Users\szila\Desktop\Szilagyi_Tibor_Abel_F0N478\feladat4\obj\Debug\net6.0\feladat4.pdb
+C:\Users\szila\Desktop\Szilagyi_Tibor_Abel_F0N478\feladat4\obj\Debug\net6.0\feladat4.genruntimeconfig.cache
+C:\Users\szila\Desktop\Szilagyi_Tibor_Abel_F0N478\feladat4\obj\Debug\net6.0\ref\feladat4.dll
